@@ -5,8 +5,15 @@
 	![300](https://i.imgur.com/Nf8x6jN.png)
 2. `style`속성에 inline으로 작성하기
 	![300](https://i.imgur.com/2YBNkRy.png)
-3. 외부 스타일 파일 `link` 태그로 연결하기	![](https://i.imgur.com/9p3oJZc.png)
-	❗️ 링크 연결할 때 path를 어떻게 적을지 모른다면 [[Absolute URL vs Relative URL]]을 읽어주세요.
+3. 외부 스타일 파일 `link` 태그로 연결하기	
+	![](https://i.imgur.com/9p3oJZc.png)
+```
+|--root
+	|--index.html
+	|--style.css
+```
+
+❗️ 링크 연결할 때 path를 어떻게 적을지 모른다면 [[Absolute URL vs Relative URL]]을 읽어주세요.
 
 
 이렇게 총 3가지가 있는데요. 저는 동일한 결과를 여러 방식으로 얻을 수 있다면 여러 방식을 때마다 골라서 사용하는 것보다 항상 한가지만 사용하는 것을 추천드립니다. 이유는 이렇게 하지 않으면 헷갈리는 경우들이 있더라고요. CSS 뿐만 아니라 다른 언어에서도 비슷한 경우에는 한가지 방법만 사용하는 것을 추천드립니다. 

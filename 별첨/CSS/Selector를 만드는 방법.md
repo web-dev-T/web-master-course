@@ -24,7 +24,7 @@
 
 <div> hello </div>
 ```
-- `.C`: C라는 class 속성 값을 갖는 태그
+- `.C`: C라는 class 속성 값을 갖는 태그 - html [[class attributes]]
 ```html
 <style>
   .greeting {
