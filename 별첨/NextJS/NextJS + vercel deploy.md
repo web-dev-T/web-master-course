@@ -1,6 +1,7 @@
 #### NextJS란?
 
 > react library 기반의 웹 개발 프레임워크
+
 #### 프로젝트 시작하기
 
 1. `$ npx create-next-app@latest`
@@ -13,6 +14,7 @@
 2. `app/page.tsx`에서 원하는 로직 작성
 	-  `/` 화면 수정 가능
 3. 작업 후에 `commit` 찍고 `github repo`에 `push`
+
 #### 배포하기
 
 1. `vercel.com`으로 이동
